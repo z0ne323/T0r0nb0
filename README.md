@@ -1,3 +1,5 @@
+![t0r0nb0](https://github.com/z0ne323/T0r0nb0/assets/80288433/8a4f3dd3-1549-484c-a4db-44b5f142beba)
+
 # T0r0nb0 ?
 
 This project is intented to be a simple implementation of a password cracker in C#.
